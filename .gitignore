@@ -1,0 +1,25 @@
+# Snakemake
+.snakemake/
+
+results/
+logs/
+dag/workflow.pdf
+dag/workflow.png
+
+execution_*.log
+stats_*.json
+
+*.gz
+*.ckp
+*.model
+*.mldist
+*.nex
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editors
+.vscode/
+.idea/
+.DS_Store
